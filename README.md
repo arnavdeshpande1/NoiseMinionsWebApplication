@@ -1,8 +1,8 @@
 #NoiseMinionsWebApplication
 
-This website is for managing the use case of noise mininons android application.
+This website is for managing the use case of noise minions android application.
 
-The data sent by android application can be seen visualy in the form of heatmap on this website.
+The data sent by android application can be seen visually in the form of heatmap on this website.
 
 Session Establishment is done to ensure that Only authenticated user can see the heatmap of noise level.
 
